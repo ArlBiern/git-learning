@@ -1,0 +1,8 @@
+Hot to run autoprefixer-cli:
+
+node_modules/.bin/autoprefixer-cli -o pref.style.css style.css
+
+Hot to run nu-html-checker for all html files:
+
+node_modules/.bin/nu-html-checker *.html
+
