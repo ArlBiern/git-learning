@@ -1,1 +1,1 @@
-https://kombajn27.github.io/git-learning/
+## Repository created to learn basic git functionality 
